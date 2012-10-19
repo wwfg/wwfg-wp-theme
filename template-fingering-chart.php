@@ -3,7 +3,7 @@
 Template Name: Fingering Chart
 */
 
-<?php get_header(); ?>
+get_header(); ?>
 
 <div id="main" class="row">
 
